@@ -13,26 +13,6 @@ body{
     background-size:cover;
 }
 
-.div_speed{
-    float:left
-}
-
-#speed{
-    font-size:23px;
-    margin:15px;
-}
-.div_volume{
-    float:right
-}
-
-#volume{
-    font-size:23px;
-    margin:15px;
-}
-.play_button{
-    width:150px;
-    font-size: 25px;
-}
 canvas{
     border: 5px solid white;
     border-radius:20px;
